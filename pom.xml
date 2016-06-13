@@ -10,7 +10,7 @@
 
     <groupId>com.github.baev</groupId>
     <artifactId>jaxb-utils</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
 
     <name>JAXB Utils</name>
     <description>The collection of useful JAXB utils</description>
@@ -27,7 +27,7 @@
         <url>https://github.com/baev/jaxb-utils</url>
         <connection>scm:git@github.com:baev/jaxb-utils.git</connection>
         <developerConnection>scm:git:git@github.com:baev/jaxb-utils.git</developerConnection>
-      <tag>1.0</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <issueManagement>
